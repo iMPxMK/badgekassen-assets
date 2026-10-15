@@ -1,0 +1,9 @@
+{
+  "item": "1161190-Sunflower Background", "v": 1, "camera": "drift",
+  "layers": [
+    {"t":"layer","img":true,"mask":"linear-gradient(0deg, #000 0%, #000 40%, transparent 65%)","anim":"field","dur":2},
+    {"t":"layer","inset":0,"bg":"radial-gradient(60% 50% at 50% 30%, rgba(255,230,160,.45) 0%, transparent 70%)","blend":"screen","anim":"breath","dur":4,"o0":0.25,"o1":0.6,"s0":1,"s1":1.06},
+    {"t":"layer","img":true,"blend":"screen","filter":"brightness(1.3) contrast(2) saturate(1.3)","anim":"breath","dur":4,"o0":0.12,"o1":0.5},
+    {"t":"parts","kind":"sunpetal","n":12}
+  ]
+}

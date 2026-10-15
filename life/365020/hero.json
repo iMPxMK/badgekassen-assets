@@ -1,0 +1,7 @@
+{
+  "item": "365020-Spider Web", "v": 1, "camera": "sway",
+  "layers": [
+    { "t": "layer", "img": true, "blend": "screen", "filter": "brightness(2) contrast(5)", "mask": "linear-gradient(135deg, transparent 20%, #000 45%, #000 55%, transparent 80%)", "anim": "breath", "dur": 2, "o0": 0, "o1": 0.9 },
+    { "t": "parts", "kind": "dew", "n": 12 }
+  ]
+}

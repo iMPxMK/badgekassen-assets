@@ -1,0 +1,11 @@
+{
+  "item": "799070-Red Clouds", "v": 1, "camera": "drift",
+  "layers": [
+    { "t": "layer", "img": true, "inset": -4, "pos": "center 42%", "mask": "linear-gradient(90deg, #000 0%, #000 45%, transparent 60%)", "anim": "drift", "dur": 8, "tx0": "-3%", "tx1": "3%", "ty1": "-1%", "s0": 1.04, "s1": 1.07 },
+    { "t": "layer", "img": true, "inset": -4, "pos": "center 42%", "mask": "linear-gradient(90deg, transparent 40%, #000 55%, #000 100%)", "anim": "drift", "dur": 8, "tx0": "3%", "tx1": "-3%", "ty1": "1%", "s0": 1.05, "s1": 1.08 },
+    { "t": "layer", "bg": "radial-gradient(50% 50% at 42% 52%, rgba(255,70,60,.6) 0%, transparent 70%)", "blend": "screen", "anim": "breath", "dur": 2, "o0": 0.2, "o1": 0.55 },
+    { "t": "line", "x": 25.2, "top": 14, "bottom": 10, "c": "#ff3a2a", "glow": "0 0 6px #ff3a2a", "dur": 1 },
+    { "t": "line", "x": 74.6, "top": 14, "bottom": 10, "c": "#e8e0d8", "glow": "0 0 4px rgba(232,224,216,.6)", "dur": 1, "delay": 0.5 },
+    { "t": "parts", "kind": "ember", "n": 14 }
+  ]
+}
