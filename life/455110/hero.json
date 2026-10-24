@@ -1,0 +1,18 @@
+{
+  "item": "455110-Starry Sky",
+  "v": 1,
+  "camera": "drift",
+  "layers": [
+    {
+      "t": "parts",
+      "kind": "twinkle",
+      "n": 24
+    },
+    {
+      "t": "parts",
+      "kind": "shoot",
+      "n": 1
+    }
+  ],
+  "note": "Runde 55-regel (15.10): ingen bildekopi over originalen; bevegelsen kommer fra kameraet."
+}
