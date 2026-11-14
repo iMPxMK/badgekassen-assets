@@ -1,0 +1,8 @@
+{
+  "item": "1257410-Cluster-amaryllis", "v": 1, "camera": "drift",
+  "layers": [
+    {"t":"layer","img":true,"blend":"screen","filter":"brightness(1.5) contrast(3) saturate(1.8)","mask":"radial-gradient(55% 75% at 80% 58%, #000 0%, rgba(0,0,0,.6) 40%, transparent 72%)","anim":"breath","dur":2,"o0":0.12,"o1":0.6},
+    {"t":"layer","box":[60,24,40,62],"round":true,"bg":"radial-gradient(ellipse, rgba(255,74,58,.6) 0%, transparent 65%)","blend":"screen","anim":"breath","dur":2,"o0":0.2,"o1":0.65,"s0":0.96,"s1":1.04},
+    {"t":"parts","kind":"lily","n":10}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "item": "454170-Sashiro Eyes", "v": 1, "camera": "drift",
+  "layers": [
+    { "t": "layer", "img": true, "blend": "screen", "filter": "brightness(1.6) contrast(3.2) saturate(1.6)", "anim": "breath", "dur": 2, "o0": 0.12, "o1": 0.6 },
+    { "t": "layer", "img": true, "blend": "screen", "filter": "brightness(1.2) contrast(2) saturate(2.4) hue-rotate(-10deg)", "mask": "linear-gradient(90deg, #000 0%, transparent 28%, transparent 72%, #000 100%)", "anim": "flick", "dur": 1 },
+    { "t": "layer", "box": [22, 24, 24, 22], "round": true, "bg": "radial-gradient(ellipse, rgba(80,160,255,.75) 0%, transparent 70%)", "blend": "screen", "anim": "breath", "dur": 1, "o0": 0.2, "o1": 0.75, "s0": 0.97, "s1": 1.03 },
+    { "t": "layer", "box": [54, 22, 24, 22], "round": true, "bg": "radial-gradient(ellipse, rgba(80,160,255,.75) 0%, transparent 70%)", "blend": "screen", "anim": "breath", "dur": 1, "delay": 0.0625, "o0": 0.2, "o1": 0.75, "s0": 0.97, "s1": 1.03 }
+  ]
+}

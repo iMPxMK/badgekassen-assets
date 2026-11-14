@@ -1,0 +1,9 @@
+{
+  "item": "436060-Noah's Sanctuary", "v": 1, "camera": "drift",
+  "layers": [
+    { "t": "layer", "img": true, "inset": -4, "pos": "center 60%", "mask": "linear-gradient(0deg, #000 0%, #000 50%, transparent 75%)", "anim": "drift", "dur": 8, "tx0": "-4%", "tx1": "4%", "ty1": "-2%", "s0": 1.03, "s1": 1.06 },
+    { "t": "layer", "bg": "radial-gradient(60% 50% at 50% 70%, rgba(255,179,217,.55) 0%, transparent 70%)", "blend": "screen", "anim": "breath", "dur": 2, "o0": 0.15, "o1": 0.5 },
+    { "t": "layer", "img": true, "blend": "screen", "filter": "brightness(1.4) contrast(2.2) saturate(1.2)", "anim": "breath", "dur": 4, "o0": 0.12, "o1": 0.6 },
+    { "t": "parts", "kind": "puff", "n": 8 }
+  ]
+}

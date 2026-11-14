@@ -1,0 +1,7 @@
+{
+  "item": "1403990-:doubleloveheart:", "v": 1, "camera": "none",
+  "layers": [
+    { "t": "layer", "center": 60, "round": true, "bg": "radial-gradient(circle, rgba(255,90,90,.55) 0%, transparent 65%)", "anim": "heart-glow", "dur": 1 },
+    { "t": "parts", "kind": "heart", "n": 10 }
+  ]
+}
