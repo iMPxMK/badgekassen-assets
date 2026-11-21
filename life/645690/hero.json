@@ -1,0 +1,9 @@
+{
+  "item": "645690-暗泽之上，荼蘼盛开", "v": 1, "camera": "drift",
+  "layers": [
+    { "t": "layer", "img": true, "blend": "screen", "filter": "brightness(1.5) contrast(2.6) saturate(.8)", "anim": "breath", "dur": 4, "o0": 0.12, "o1": 0.6 },
+    { "t": "layer", "bg": "repeating-radial-gradient(ellipse 60% 40% at 50% 60%, transparent 0 18px, rgba(150,200,255,.07) 19px 20px)", "blend": "screen", "anim": "shimmer", "dur": 2 },
+    { "t": "layer", "box": [11, 24, 9, 10], "round": true, "bg": "radial-gradient(ellipse, rgba(140,200,255,.8) 0%, transparent 70%)", "blend": "screen", "anim": "breath", "dur": 1, "o0": 0.3, "o1": 0.8 },
+    { "t": "parts", "kind": "petal", "n": 16 }
+  ]
+}
