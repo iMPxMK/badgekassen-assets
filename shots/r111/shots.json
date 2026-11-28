@@ -1,0 +1,321 @@
+{
+ "runde": "r111",
+ "base": "http://localhost:3000",
+ "at": "2026-11-27T01:17:28.620Z",
+ "widths": [
+  390,
+  768,
+  1280
+ ],
+ "pages": [
+  {
+   "id": "forside",
+   "name": "Forsiden (ny bruker: introen)",
+   "url": "/",
+   "shots": {
+    "390": {
+     "file": "forside-390.jpg",
+     "quiet": true,
+     "waited": 4013,
+     "h": 4500,
+     "cut": true
+    },
+    "768": {
+     "file": "forside-768.jpg",
+     "quiet": true,
+     "waited": 4614,
+     "h": 4500,
+     "cut": true
+    },
+    "1280": {
+     "file": "forside-1280.jpg",
+     "quiet": true,
+     "waited": 4110,
+     "h": 4500,
+     "cut": true
+    }
+   }
+  },
+  {
+   "id": "detalj",
+   "name": "En åpen detalj (/spill/491620, første rad)",
+   "url": "/spill/491620",
+   "shots": {
+    "390": {
+     "file": "detalj-390.jpg",
+     "quiet": true,
+     "waited": 4209,
+     "h": 4500,
+     "cut": true,
+     "layer": true
+    },
+    "768": {
+     "file": "detalj-768.jpg",
+     "quiet": true,
+     "waited": 4711,
+     "h": 4376,
+     "cut": false,
+     "layer": true
+    },
+    "1280": {
+     "file": "detalj-1280.jpg",
+     "quiet": true,
+     "waited": 4213,
+     "h": 4500,
+     "cut": true
+    }
+   }
+  },
+  {
+   "id": "craft",
+   "name": "/craft",
+   "url": "/craft",
+   "shots": {
+    "390": {
+     "file": "craft-390.jpg",
+     "quiet": true,
+     "waited": 4210,
+     "h": 3100,
+     "cut": false
+    },
+    "768": {
+     "file": "craft-768.jpg",
+     "quiet": true,
+     "waited": 4317,
+     "h": 2429,
+     "cut": false
+    },
+    "1280": {
+     "file": "craft-1280.jpg",
+     "quiet": true,
+     "waited": 4318,
+     "h": 2159,
+     "cut": false
+    }
+   }
+  },
+  {
+   "id": "profil-tom",
+   "name": "/profil (tom)",
+   "url": "/profil",
+   "shots": {
+    "390": {
+     "file": "profil-tom-390.jpg",
+     "quiet": true,
+     "waited": 4810,
+     "h": 1299,
+     "cut": false
+    },
+    "768": {
+     "file": "profil-tom-768.jpg",
+     "quiet": true,
+     "waited": 5014,
+     "h": 1024,
+     "cut": false
+    },
+    "1280": {
+     "file": "profil-tom-1280.jpg",
+     "quiet": true,
+     "waited": 4614,
+     "h": 800,
+     "cut": false
+    }
+   }
+  },
+  {
+   "id": "profil-ferdig",
+   "name": "/profil (ferdig lest, Steam-stubben)",
+   "url": "/profil",
+   "shots": {
+    "390": {
+     "file": "profil-ferdig-390.jpg",
+     "quiet": true,
+     "waited": 2405,
+     "h": 4500,
+     "cut": true
+    },
+    "768": {
+     "file": "profil-ferdig-768.jpg",
+     "quiet": true,
+     "waited": 3510,
+     "h": 4500,
+     "cut": true
+    },
+    "1280": {
+     "file": "profil-ferdig-1280.jpg",
+     "quiet": true,
+     "waited": 3317,
+     "h": 4500,
+     "cut": true
+    }
+   }
+  },
+  {
+   "id": "mine-kort",
+   "name": "Mine kort: «Kort»",
+   "url": "/profil#kort",
+   "shots": {
+    "390": {
+     "file": "mine-kort-390.jpg",
+     "quiet": true,
+     "waited": 3107,
+     "h": 1053,
+     "cut": false
+    },
+    "768": {
+     "file": "mine-kort-768.jpg",
+     "quiet": true,
+     "waited": 3009,
+     "h": 1024,
+     "cut": false
+    },
+    "1280": {
+     "file": "mine-kort-1280.jpg",
+     "quiet": true,
+     "waited": 1906,
+     "h": 1034,
+     "cut": false
+    }
+   }
+  },
+  {
+   "id": "mine-kort-inventar",
+   "name": "Mine kort: «Alt i inventaret»",
+   "url": "/profil#inventar",
+   "shots": {
+    "390": {
+     "file": "mine-kort-inventar-390.jpg",
+     "quiet": true,
+     "waited": 3012,
+     "h": 4500,
+     "cut": true
+    },
+    "768": {
+     "file": "mine-kort-inventar-768.jpg",
+     "quiet": true,
+     "waited": 2409,
+     "h": 4500,
+     "cut": true
+    },
+    "1280": {
+     "file": "mine-kort-inventar-1280.jpg",
+     "quiet": true,
+     "waited": 2209,
+     "h": 4500,
+     "cut": true
+    }
+   }
+  },
+  {
+   "id": "sporsmal",
+   "name": "/sporsmal",
+   "url": "/sporsmal",
+   "shots": {
+    "390": {
+     "file": "sporsmal-390.jpg",
+     "quiet": true,
+     "waited": 1905,
+     "h": 1990,
+     "cut": false
+    },
+    "768": {
+     "file": "sporsmal-768.jpg",
+     "quiet": true,
+     "waited": 2005,
+     "h": 1781,
+     "cut": false
+    },
+    "1280": {
+     "file": "sporsmal-1280.jpg",
+     "quiet": true,
+     "waited": 1908,
+     "h": 1834,
+     "cut": false
+    }
+   }
+  },
+  {
+   "id": "personvern",
+   "name": "/personvern",
+   "url": "/personvern",
+   "shots": {
+    "390": {
+     "file": "personvern-390.jpg",
+     "quiet": true,
+     "waited": 1604,
+     "h": 3978,
+     "cut": false
+    },
+    "768": {
+     "file": "personvern-768.jpg",
+     "quiet": true,
+     "waited": 1805,
+     "h": 3760,
+     "cut": false
+    },
+    "1280": {
+     "file": "personvern-1280.jpg",
+     "quiet": true,
+     "waited": 1707,
+     "h": 3034,
+     "cut": false
+    }
+   }
+  },
+  {
+   "id": "404",
+   "name": "404 (/finnes-ikke-111m)",
+   "url": "/finnes-ikke-111m",
+   "shots": {
+    "390": {
+     "file": "404-390.jpg",
+     "quiet": true,
+     "waited": 2205,
+     "h": 844,
+     "cut": false
+    },
+    "768": {
+     "file": "404-768.jpg",
+     "quiet": true,
+     "waited": 2104,
+     "h": 1024,
+     "cut": false
+    },
+    "1280": {
+     "file": "404-1280.jpg",
+     "quiet": true,
+     "waited": 2107,
+     "h": 800,
+     "cut": false
+    }
+   }
+  }
+ ],
+ "fasit": [
+  {
+   "id": "110b",
+   "page": "forside",
+   "fasit": "fasit-110b.png",
+   "real": "ekte-110b.png",
+   "diff": "diff-110b.png",
+   "side": "sammen-110b.png",
+   "fasitW": 390,
+   "fasitH": 720,
+   "same": true,
+   "pct": 22.3
+  },
+  {
+   "id": "110a",
+   "page": "mine-kort",
+   "fasit": "fasit-110a.png",
+   "real": "ekte-110a.png",
+   "diff": "diff-110a.png",
+   "side": "sammen-110a.png",
+   "fasitW": 390,
+   "fasitH": 720,
+   "same": true,
+   "pct": 30.1
+  }
+ ],
+ "seconds": 147
+}

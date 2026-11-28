@@ -1,0 +1,18 @@
+{
+  "item": "455110-Starry Sky",
+  "v": 2,
+  "camera": "star",
+  "layers": [
+    {
+      "t": "parts",
+      "kind": "twinkle",
+      "n": 24
+    },
+    {
+      "t": "parts",
+      "kind": "shoot",
+      "n": 1
+    }
+  ],
+  "note": "Runde 63 (44b «himmelen dreier»): kameraet star glir bildet 1,5 % sidelengs over grunnpulsen × 32, lineært fram og tilbake, uten zoom (app/hero-life.css). Ingen bildekopi over originalen (runde 55-regelen)."
+}

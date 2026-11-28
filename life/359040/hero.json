@@ -1,0 +1,7 @@
+{
+  "item": "359040-Leaves", "v": 1, "camera": "none",
+  "layers": [
+    { "t": "parts", "kind": "leaf", "n": 18, "gust": true },
+    { "t": "layer", "img": true, "blend": "screen", "filter": "brightness(1.6) contrast(3.5)", "anim": "breath", "dur": 2, "o0": 0.12, "o1": 0.6 }
+  ]
+}

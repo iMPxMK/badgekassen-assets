@@ -1,0 +1,7 @@
+{
+  "item": "603750-A Deep Black", "v": 1, "camera": "none",
+  "layers": [
+    {"t":"layer","box":[15,15,70,70],"round":true,"bg":"radial-gradient(circle, rgba(40,40,50,.5) 0%, transparent 70%)","anim":"breath","dur":8,"o0":0,"o1":0.25,"s0":0.9,"s1":1},
+    {"t":"layer","inset":0,"bg":"repeating-radial-gradient(circle at 50% 50%, transparent 0 40px, rgba(30,30,40,.5) 41px 42px)","anim":"glow","dur":4,"o0":0,"o1":0.12}
+  ]
+}
